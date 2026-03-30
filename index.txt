@@ -1,0 +1,23 @@
+💰
+Gastos
+📊
+Semana
+📅
+Mês
+⚙️
+Ajustes
+
++
+Formato: valor + descrição. Ex: 43,00 lanche noite ifood
+‹
+
+›
+Seg
+Ter
+Qua
+Qui
+Sex
+Sáb
+Dom
+
+
